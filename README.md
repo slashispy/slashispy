@@ -11,6 +11,8 @@ AWS Certified Solutions Architect – Associate · CNCF KCNA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrés--planás-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-planás-07919014a)
 [![Email](https://img.shields.io/badge/Email-andresplanas91@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:andresplanas91@gmail.com)
+[![CV English](https://img.shields.io/badge/CV-English%20(PDF)-1F3A5F?logo=readthedocs&logoColor=white)](cv/CV_Andres_Planas_EN.pdf)
+[![CV Español](https://img.shields.io/badge/CV-Español%20(PDF)-2E6DA4?logo=readthedocs&logoColor=white)](cv/CV_Andres_Planas_ES.pdf)
 
 > 🟢 **Open to work / Abierto a oportunidades**: Cloud / DevOps / Platform Engineering **and Software Developer** roles. / Posiciones de Cloud / DevOps / Platform Engineering **y de Software Developer**.
 
