@@ -27,7 +27,7 @@ With **12+ years of engineering experience** across software development, DevOps
 
 ### How I work: Spec-Driven Development with AI
 
-I'm familiar with **spec-driven development with AI**: I define requirements, design and a phased task plan first, then work with an AI agent to implement each task with review checkpoints, tests and verification. The [QuickTask GitOps Circuit](#featured-project--proyecto-destacado) below was built this way, across 5 repos, with each phase reviewed before publishing.
+I'm familiar with **spec-driven development with AI**: I define requirements, design and a phased task plan first, then work with an AI agent to implement each task with review checkpoints, tests and verification. The [QuickTask GitOps Circuit](#featured-project--proyecto-destacado) below was built this way, across 6 repos, with each phase reviewed before publishing.
 
 ### What I do
 
@@ -68,7 +68,7 @@ Con **más de 12 años de experiencia en ingeniería** que abarcan desarrollo de
 
 ### Cómo trabajo: Spec-Driven Development con IA
 
-Conozco la metodología de **desarrollo guiado por especificaciones con IA**: primero defino requisitos, diseño y un plan de tareas por fases, y luego trabajo con un agente de IA para implementar cada tarea con checkpoints de revisión, tests y verificación. El [QuickTask GitOps Circuit](#featured-project--proyecto-destacado) de más abajo se construyó así, en 5 repos, revisando cada fase antes de publicar.
+Conozco la metodología de **desarrollo guiado por especificaciones con IA**: primero defino requisitos, diseño y un plan de tareas por fases, y luego trabajo con un agente de IA para implementar cada tarea con checkpoints de revisión, tests y verificación. El [QuickTask GitOps Circuit](#featured-project--proyecto-destacado) de más abajo se construyó así, en 6 repos, revisando cada fase antes de publicar.
 
 ### Qué hago
 
@@ -120,7 +120,8 @@ Conozco la metodología de **desarrollo guiado por especificaciones con IA**: pr
 
 | Repo | Role / Rol |
 |---|---|
-| [quicktask](https://github.com/slashispy/quicktask) | Go API with MongoDB, JWT, health/readiness / API en Go con MongoDB, JWT, health/readiness |
+| [quicktask](https://github.com/slashispy/quicktask) | Go API with MongoDB, validates JWT / API en Go con MongoDB, valida JWT |
+| [quicktask-auth](https://github.com/slashispy/quicktask-auth) | Quarkus JWT issuer (RS256, client credentials) / Emisor de JWT en Quarkus (RS256, client credentials) |
 | [helm-chart-generic-app](https://github.com/slashispy/helm-chart-generic-app) | Generic, reusable Helm chart / Helm chart genérico y reutilizable |
 | [gitops-app-values](https://github.com/slashispy/gitops-app-values) | Per-app values for the chart / Values por aplicación para el chart |
 | [gitops-argocd-apps](https://github.com/slashispy/gitops-argocd-apps) | App of Apps + ApplicationSet |
